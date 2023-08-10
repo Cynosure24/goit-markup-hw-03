@@ -337,9 +337,9 @@ ul, ol {
 
 
   .p-list-container {
+    border: 1px solid var(--cornflower);
     padding: 32px 16px;
     border-top: none;
-    border: 1px solid var(--cornflower #E7E9FC);
   }
 
 
