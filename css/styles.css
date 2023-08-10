@@ -227,7 +227,6 @@ ul, ol {
 }
 
 .two-items {
-    max-width: 264px;
     width: calc((100% - 72px) / 4);
   }
 
@@ -236,6 +235,7 @@ ul, ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 
@@ -272,6 +272,7 @@ ul, ol {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 
 
@@ -287,6 +288,11 @@ ul, ol {
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;
+}
+
+
+.section-four-team {
+    width: ((100% - 72px) / 4); 
 }
 
 
