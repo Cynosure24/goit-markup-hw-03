@@ -368,6 +368,7 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     max-width: 264px;
+    justify-content: center;
 }
 
 
