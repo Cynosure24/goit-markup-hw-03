@@ -46,6 +46,15 @@ img {
 }
 
 
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+
 ul, ol {
     margin-top: 0;
     margin-bottom: 0;
@@ -177,7 +186,6 @@ ul, ol {
     line-height: 1.07;
     letter-spacing: 0.02em;
     max-width: 496px;
-    margin: 0 auto;
     margin-bottom: 48px;
 }
 
@@ -238,7 +246,7 @@ ul, ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align:left;
+    text-align: left;
 }
 
 
