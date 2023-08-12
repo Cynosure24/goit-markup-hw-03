@@ -96,9 +96,9 @@ ul, ol {
 
 
 .nav-list {
-    display: block;
+    display: flex;
     gap: 40px;
-    text-align: center;
+    margin-right: auto;
   }
   
   .nav-list:last-child {
