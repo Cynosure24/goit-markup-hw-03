@@ -98,7 +98,7 @@ ul, ol {
 .nav-list {
     display: flex;
     gap: 40px;
-    flex-wrap: wrap;
+    text-align: center;
   }
   
   .nav-list:last-child {
@@ -145,7 +145,6 @@ ul, ol {
   
 .header-address-item {
     color: var(--slate, #434455);
-    display: block;
 }
 
   .header-address-item:hover,
