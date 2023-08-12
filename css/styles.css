@@ -96,7 +96,7 @@ ul, ol {
 
 
 .nav-list {
-    display: flex;
+    display: block;
     gap: 40px;
     text-align: center;
   }
