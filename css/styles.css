@@ -145,6 +145,7 @@ ul, ol {
   
 .header-address-item {
     color: var(--slate, #434455);
+    display: block;
 }
 
   .header-address-item:hover,
@@ -157,7 +158,6 @@ ul, ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    display: block;
 }
 
 .link-header-address-item:hover,
