@@ -43,6 +43,8 @@ body {
 
 img {
     display: block;
+    padding: 0;
+    margin: 0;
 }
 
 
@@ -96,6 +98,7 @@ ul, ol {
 .nav-list {
     display: flex;
     gap: 40px;
+    flex-wrap: wrap;
   }
   
   .nav-list:last-child {
