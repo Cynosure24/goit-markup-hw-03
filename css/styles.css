@@ -93,6 +93,7 @@ ul, ol {
 
 .nav {
     display: flex;
+    align-items: center;
 }
 
 
