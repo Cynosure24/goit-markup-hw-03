@@ -69,7 +69,9 @@ ul, ol {
 
   .header-flex {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    height: 72px;
   }
 
 
@@ -91,7 +93,6 @@ ul, ol {
 
 .nav {
     display: flex;
-    align-items: center;
 }
 
 
